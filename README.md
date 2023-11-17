@@ -1,2 +1,4 @@
 # DSA_Problem_Solving
-solving data structure problems from leet code
+Solving data structure problems
+
+1. 17-11-2023 Reversing a sting using recursion.
